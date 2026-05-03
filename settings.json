@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "justu-gS9v.aternos.me:58692",
+    "ip": "justu-gS9v.aternos.me",
     "port": 58692,
     "version": "26.1.2",
     "try-creative": false
